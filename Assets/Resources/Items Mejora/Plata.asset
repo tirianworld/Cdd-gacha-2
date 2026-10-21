@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41104d4be25fe0b4c871cfb029ba6eab, type: 3}
+  m_Name: Plata
+  m_EditorClassIdentifier: 
+  itemName: Lingote de Plata
+  description: Lingote Extraido de las minas del Sur de Aeros, Afecta de sobremanera
+    a criaturas sobrenaturales y monstruosidades.
+  rarity: 0
+  icon: {fileID: -7420809242986959543, guid: da65e87570704fc4fb42a95bc011099a, type: 3}
+  sellValue: 1

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41104d4be25fe0b4c871cfb029ba6eab, type: 3}
+  m_Name: Arapos Mugrientos
+  m_EditorClassIdentifier: 
+  itemName: Arapos Mugrientos
+  description: Restos de las Vestiduras del Grupo de Bandidos, tal vez puedan transformarse
+    en algo util.
+  rarity: 0
+  icon: {fileID: -4661455894932258584, guid: f97dea0a4ec6c77459107c6e7875c7fc, type: 3}
+  sellValue: 100

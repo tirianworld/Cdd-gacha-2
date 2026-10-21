@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc9cda05d8470474aa0b083ca04031f9, type: 3}
+  m_Name: Pergamino Natural
+  m_EditorClassIdentifier: 
+  productId: Pergamino_Natural_001
+  productName: Pergamino Natural
+  description: "La magia que ha sido infundida en este pergamino es ca\xF3tica, primitiva,
+    busca expandirse y dominarlo todo.\n"
+  productType: 3
+  icon: {fileID: 5206026479380573367, guid: 25825aae5242e9b45bb7678c47b21111, type: 3}
+  currency: 0
+  costAmount: 500
+  hasSecondaryCost: 0
+  secondaryCurrency: 0
+  secondaryCostAmount: 0
+  item: {fileID: 11400000, guid: 00f5e00cb527525448e59718a83b692e, type: 2}
+  equipment: {fileID: 0}
+  heroID: 0
+  packItems:
+  - {fileID: 11400000, guid: 00f5e00cb527525448e59718a83b692e, type: 2}
+  packItemCounts: 0a000000
+  packHeroIDs: 
+  packGold: 500
+  packMemoryCristals: 0

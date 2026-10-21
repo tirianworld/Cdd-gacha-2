@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2079288194382928662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2252791051394332603}
+  - component: {fileID: 5186543200542031181}
+  m_Layer: 0
+  m_Name: Magordito
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2252791051394332603
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2079288194382928662}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 606.75226, y: 276.79666, z: 1.0856066}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5186543200542031181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2079288194382928662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5861d5d43f2c2349ac4b8a6880f2f07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  portrait: {fileID: -3601705968627105659, guid: ba244c4cb7f2d67479b88dfd450ca21f, type: 3}
+  heroName: Magordito
+  heroID: 11
+  isUnlocked: 1
+  race: 0
+  subRace: Standard
+  heroClasses: 04000000
+  BondLevel: 0
+  heroReligion: 0
+  alianza: 0
+  Stars: 0
+  skills:
+  - skillName: Drenar Maldiciones
+    description: 
+    icon: {fileID: -728781547593831466, guid: d8ff577c2eacadf47af551fc2bec38dc, type: 3}
+    targetType: 1
+    basePower: 20
+    scalingAttack: 0
+    scalingDefense: 0
+    buffAttackAdd: 0
+    buffDefenseAdd: 0
+    buffDurationTurns: 0
+    effectType: 3
+  - skillName: Rayo Necrotico
+    description: 
+    icon: {fileID: -728781547593831466, guid: d8ff577c2eacadf47af551fc2bec38dc, type: 3}
+    targetType: 0
+    basePower: 35
+    scalingAttack: 0
+    scalingDefense: 0
+    buffAttackAdd: 0
+    buffDefenseAdd: 0
+    buffDurationTurns: 0
+    effectType: 0
+  CC: 0
+  stats:
+    level: 1
+    maxHealth: 100
+    currentHealth: 100
+    attack: 10
+    defense: 5
+    stamina: 100
+    maxStamina: 100
+    xp: 0
+  equipped: []
+  combatSprites: []
+  combatSpriteObject: {fileID: 0}

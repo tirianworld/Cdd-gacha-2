@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 92823977ca2c4914bbb2264f44e4cd93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4207282026862219381
+    second: anillo del incrustado_0
+  - first:
+      213: -3214144737036346027
+    second: anillo del incrustado_1
+  - first:
+      213: -3065854891719522007
+    second: anillo del incrustado_2
+  - first:
+      213: 6508590366312793801
+    second: anillo del incrustado_3
+  - first:
+      213: 5890136844354509071
+    second: anillo del incrustado_4
+  - first:
+      213: -6770852029913052605
+    second: anillo del incrustado_5
+  - first:
+      213: -8333312624760715899
+    second: anillo del incrustado_6
+  - first:
+      213: -4624402260849426900
+    second: anillo del incrustado_7
+  - first:
+      213: 7073213748772170668
+    second: anillo del incrustado_8
+  - first:
+      213: -7615822567562448195
+    second: anillo del incrustado_9
+  - first:
+      213: -501787651301749710
+    second: anillo del incrustado_10
+  - first:
+      213: 6820835862314424761
+    second: anillo del incrustado_11
+  - first:
+      213: -8531745573046655093
+    second: anillo del incrustado_12
+  - first:
+      213: -7305800612408366149
+    second: anillo del incrustado_13
+  - first:
+      213: 7817914629451778128
+    second: anillo del incrustado_14
+  - first:
+      213: 4709768995828316630
+    second: anillo del incrustado_15
+  - first:
+      213: 2500477981349776650
+    second: anillo del incrustado_16
+  - first:
+      213: -9049240536944994607
+    second: anillo del incrustado_17
+  - first:
+      213: -6744330877763852340
+    second: anillo del incrustado_18
+  - first:
+      213: 8621303360326716252
+    second: anillo del incrustado_19
+  - first:
+      213: 5594710886901093342
+    second: anillo del incrustado_20
+  - first:
+      213: 341178985389695619
+    second: anillo del incrustado_21
+  - first:
+      213: -1185707630373226390
+    second: anillo del incrustado_22
+  - first:
+      213: -8351105856606888781
+    second: anillo del incrustado_23
+  - first:
+      213: -5944116777283500056
+    second: anillo del incrustado_24
+  - first:
+      213: -5914321319136638652
+    second: anillo del incrustado_25
+  - first:
+      213: 5324362420122893024
+    second: anillo del incrustado_26
+  - first:
+      213: 6477621815376052193
+    second: anillo del incrustado_27
+  - first:
+      213: -8713509031355446104
+    second: anillo del incrustado_28
+  - first:
+      213: -6579259542744177613
+    second: anillo del incrustado_29
+  - first:
+      213: -1785423076370638467
+    second: anillo del incrustado_30
+  - first:
+      213: 7684435208284847136
+    second: anillo del incrustado_31
+  - first:
+      213: 2752656873302565985
+    second: anillo del incrustado_32
+  - first:
+      213: 5323530599155071329
+    second: anillo del incrustado_33
+  - first:
+      213: 1384867496949087684
+    second: anillo del incrustado_34
+  - first:
+      213: -7715729954518923654
+    second: anillo del incrustado_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anillo del incrustado_0
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 981
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570120956b4436a30800000000000000
+      internalID: 4207282026862219381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1009
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dd14414601563d0800000000000000
+      internalID: -3214144737036346027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_2
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1007
+        width: 64
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9290a263835e375d0800000000000000
+      internalID: -3065854891719522007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_3
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1012
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c68a944478235a50800000000000000
+      internalID: 6508590366312793801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_4
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 992
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09d03ea048fdb150800000000000000
+      internalID: 5890136844354509071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 958
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34acc4ac3f91902a0800000000000000
+      internalID: -6770852029913052605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 972
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5850cdec1502a5c80800000000000000
+      internalID: -8333312624760715899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_7
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 973
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e7e8715a2d2dfb0800000000000000
+      internalID: -4624402260849426900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_8
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 959
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab69f3dd6a192260800000000000000
+      internalID: 7073213748772170668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 1006
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db27904a9b92f4690800000000000000
+      internalID: -7615822567562448195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 950
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c4b7b2aca4909f0800000000000000
+      internalID: -501787651301749710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 874
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b91f74141a78ae50800000000000000
+      internalID: 6820835862314424761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_12
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 826
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87ea8cba96299980800000000000000
+      internalID: -8531745573046655093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 819
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb61910d059c9a90800000000000000
+      internalID: -7305800612408366149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_14
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 795
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0588dc43fefce7c60800000000000000
+      internalID: 7817914629451778128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9be72c2f57c5140800000000000000
+      internalID: 4709768995828316630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 783
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d0a07d97b73b220800000000000000
+      internalID: 2500477981349776650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 784
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d614543da3aa6280800000000000000
+      internalID: -9049240536944994607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7ef27bcc25762a0800000000000000
+      internalID: -6744330877763852340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bc7258ab505a770800000000000000
+      internalID: 8621303360326716252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 167
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed310cad8e764ad40800000000000000
+      internalID: 5594710886901093342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 156
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3822bf4ca7c1cb400800000000000000
+      internalID: 341178985389695619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_22
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 158
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68322c31358b8fe0800000000000000
+      internalID: -1185707630373226390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 138
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc134f2879ea1c80800000000000000
+      internalID: -8351105856606888781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 116
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7c39ac841428da0800000000000000
+      internalID: -5944116777283500056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 108
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449475d781c1ceda0800000000000000
+      internalID: -5914321319136638652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 47
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea3dd2596fe3e940800000000000000
+      internalID: 5324362420122893024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 40
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef7fce98b225e950800000000000000
+      internalID: 6477621815376052193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_28
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 46
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac86eeb3b5631780800000000000000
+      internalID: -8713509031355446104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_29
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 29
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33462a5ed46c1b4a0800000000000000
+      internalID: -6579259542744177613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_30
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 27
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79942feb27e837e0800000000000000
+      internalID: -1785423076370638467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_31
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cb259ab1994aa60800000000000000
+      internalID: 7684435208284847136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_32
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 13
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164acb197d6633620800000000000000
+      internalID: 2752656873302565985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_33
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1697f89efdaf0e940800000000000000
+      internalID: 5323530599155071329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 8
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd72a0b6a9083310800000000000000
+      internalID: 1384867496949087684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anillo del incrustado_35
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a760f0e6c783ce490800000000000000
+      internalID: -7715729954518923654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      anillo del incrustado_0: 4207282026862219381
+      anillo del incrustado_1: -3214144737036346027
+      anillo del incrustado_10: -501787651301749710
+      anillo del incrustado_11: 6820835862314424761
+      anillo del incrustado_12: -8531745573046655093
+      anillo del incrustado_13: -7305800612408366149
+      anillo del incrustado_14: 7817914629451778128
+      anillo del incrustado_15: 4709768995828316630
+      anillo del incrustado_16: 2500477981349776650
+      anillo del incrustado_17: -9049240536944994607
+      anillo del incrustado_18: -6744330877763852340
+      anillo del incrustado_19: 8621303360326716252
+      anillo del incrustado_2: -3065854891719522007
+      anillo del incrustado_20: 5594710886901093342
+      anillo del incrustado_21: 341178985389695619
+      anillo del incrustado_22: -1185707630373226390
+      anillo del incrustado_23: -8351105856606888781
+      anillo del incrustado_24: -5944116777283500056
+      anillo del incrustado_25: -5914321319136638652
+      anillo del incrustado_26: 5324362420122893024
+      anillo del incrustado_27: 6477621815376052193
+      anillo del incrustado_28: -8713509031355446104
+      anillo del incrustado_29: -6579259542744177613
+      anillo del incrustado_3: 6508590366312793801
+      anillo del incrustado_30: -1785423076370638467
+      anillo del incrustado_31: 7684435208284847136
+      anillo del incrustado_32: 2752656873302565985
+      anillo del incrustado_33: 5323530599155071329
+      anillo del incrustado_34: 1384867496949087684
+      anillo del incrustado_35: -7715729954518923654
+      anillo del incrustado_4: 5890136844354509071
+      anillo del incrustado_5: -6770852029913052605
+      anillo del incrustado_6: -8333312624760715899
+      anillo del incrustado_7: -4624402260849426900
+      anillo del incrustado_8: 7073213748772170668
+      anillo del incrustado_9: -7615822567562448195
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

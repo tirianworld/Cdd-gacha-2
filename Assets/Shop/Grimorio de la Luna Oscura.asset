@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc9cda05d8470474aa0b083ca04031f9, type: 3}
+  m_Name: Grimorio de la Luna Oscura
+  m_EditorClassIdentifier: 
+  productId: Grimorio_Luna_Oscura_001
+  productName: Grimorio Lunar
+  description: "Contiene escritos sagrados de la luna oscura, permite convertir a
+    un h\xE9roe a esta religi\xF3n."
+  productType: 3
+  icon: {fileID: 1930503993368981207, guid: 7b7aac0b41dfa9345a3b6e1422a3f9c5, type: 3}
+  currency: 1
+  costAmount: 25
+  hasSecondaryCost: 0
+  secondaryCurrency: 0
+  secondaryCostAmount: 1000
+  item: {fileID: 11400000, guid: 24bb3da25ab4ad846b64c4987029567a, type: 2}
+  equipment: {fileID: 0}
+  heroID: 0
+  packItems:
+  - {fileID: 11400000, guid: 24bb3da25ab4ad846b64c4987029567a, type: 2}
+  packItemCounts: 0a000000
+  packHeroIDs: 
+  packGold: 500
+  packMemoryCristals: 0

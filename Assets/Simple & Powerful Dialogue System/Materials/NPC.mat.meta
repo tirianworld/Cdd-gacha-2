@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30142c307f49d5c489c6c329f1ad930c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314708
+  packageName: Simple & Powerful Dialogue System
+  packageVersion: 1.0
+  assetPath: Assets/Simple & Powerful Dialogue System/Materials/NPC.mat
+  uploadId: 742577

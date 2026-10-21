@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc9cda05d8470474aa0b083ca04031f9, type: 3}
+  m_Name: Lingote Electrum
+  m_EditorClassIdentifier: 
+  productId: Electrum_001
+  productName: Electrum
+  description: Lingote forjado con Oro y Plata, contiene algunas de las propiedades
+    antimonstruos de la plata y una mejor encantabilidad por el oro.
+  productType: 3
+  icon: {fileID: 7595664436996432113, guid: 98117f14565abea41af3ecd85a8a24dd, type: 3}
+  currency: 0
+  costAmount: 650
+  hasSecondaryCost: 0
+  secondaryCurrency: 0
+  secondaryCostAmount: 0
+  item: {fileID: 11400000, guid: 8beb0ba02ba8006448f5daf7800f45f3, type: 2}
+  equipment: {fileID: 0}
+  heroID: 0
+  packItems:
+  - {fileID: 11400000, guid: 8beb0ba02ba8006448f5daf7800f45f3, type: 2}
+  packItemCounts: 0a000000
+  packHeroIDs: 
+  packGold: 500
+  packMemoryCristals: 0

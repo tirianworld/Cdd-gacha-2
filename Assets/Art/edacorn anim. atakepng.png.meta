@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: b1c1b2e123fec654e85fa0c833299e5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -59692105117436722
+    second: edacorn anim. atakepng_0
+  - first:
+      213: 6223405530560321015
+    second: edacorn anim. atakepng_1
+  - first:
+      213: -9001925241846491209
+    second: edacorn anim. atakepng_2
+  - first:
+      213: -3498452534360384918
+    second: edacorn anim. atakepng_3
+  - first:
+      213: -7216038342314107322
+    second: edacorn anim. atakepng_4
+  - first:
+      213: -6986941833181892122
+    second: edacorn anim. atakepng_5
+  - first:
+      213: 3626657257866958279
+    second: edacorn anim. atakepng_6
+  - first:
+      213: 8698983940795823247
+    second: edacorn anim. atakepng_7
+  - first:
+      213: 907290799173328790
+    second: edacorn anim. atakepng_8
+  - first:
+      213: -5905643820877719906
+    second: edacorn anim. atakepng_9
+  - first:
+      213: -6241028934182359111
+    second: edacorn anim. atakepng_10
+  - first:
+      213: 5043366574573864190
+    second: edacorn anim. atakepng_11
+  - first:
+      213: 2695742501191599449
+    second: edacorn anim. atakepng_12
+  - first:
+      213: 3007466423453631063
+    second: edacorn anim. atakepng_13
+  - first:
+      213: 4284770937059057793
+    second: edacorn anim. atakepng_14
+  - first:
+      213: -1490170703005296036
+    second: edacorn anim. atakepng_15
+  - first:
+      213: -8151540903357301001
+    second: edacorn anim. atakepng_16
+  - first:
+      213: 3844138600972477717
+    second: edacorn anim. atakepng_17
+  - first:
+      213: -8418783953307193768
+    second: edacorn anim. atakepng_18
+  - first:
+      213: -2099716631290143829
+    second: edacorn anim. atakepng_19
+  - first:
+      213: 7591452590969836291
+    second: edacorn anim. atakepng_20
+  - first:
+      213: -3792797489954830809
+    second: edacorn anim. atakepng_21
+  - first:
+      213: 291403260077413312
+    second: edacorn anim. atakepng_22
+  - first:
+      213: -213829372524367142
+    second: edacorn anim. atakepng_23
+  - first:
+      213: -2245610253625030506
+    second: edacorn anim. atakepng_24
+  - first:
+      213: 1843517054776435515
+    second: edacorn anim. atakepng_25
+  - first:
+      213: 8913508635828938257
+    second: edacorn anim. atakepng_26
+  - first:
+      213: -3899690104773057731
+    second: edacorn anim. atakepng_27
+  - first:
+      213: -7957823897913607450
+    second: edacorn anim. atakepng_28
+  - first:
+      213: -919657435742609041
+    second: edacorn anim. atakepng_29
+  - first:
+      213: 1405835653599258974
+    second: edacorn anim. atakepng_30
+  - first:
+      213: 531611131736381381
+    second: edacorn anim. atakepng_31
+  - first:
+      213: 7237499851860452565
+    second: edacorn anim. atakepng_32
+  - first:
+      213: -4697373855537088876
+    second: edacorn anim. atakepng_33
+  - first:
+      213: 3675723076885583770
+    second: edacorn anim. atakepng_34
+  - first:
+      213: -5635779864692823587
+    second: edacorn anim. atakepng_35
+  - first:
+      213: 481999540450424276
+    second: edacorn anim. atakepng_36
+  - first:
+      213: 4452239834082698229
+    second: edacorn anim. atakepng_37
+  - first:
+      213: 6762647352116179210
+    second: edacorn anim. atakepng_38
+  - first:
+      213: 3344009148413641846
+    second: edacorn anim. atakepng_39
+  - first:
+      213: 5501019445744262329
+    second: edacorn anim. atakepng_40
+  - first:
+      213: 1397590703062477157
+    second: edacorn anim. atakepng_41
+  - first:
+      213: 3349626555211541445
+    second: edacorn anim. atakepng_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: edacorn anim. atakepng_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 227
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4749eb85eeb2ff0800000000000000
+      internalID: -59692105117436722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edacorn anim. atakepng_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 768
+        width: 227
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5df366b5afd5650800000000000000
+      internalID: 6223405530560321015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edacorn anim. atakepng_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 768
+        width: 227
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b71e11dfacb21380800000000000000
+      internalID: -9001925241846491209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edacorn anim. atakepng_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 227
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a52e1a4fff27fc0800000000000000
+      internalID: -3498452534360384918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edacorn anim. atakepng_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 512
+        width: 227
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ed4c02c5b7bdb90800000000000000
+      internalID: -7216038342314107322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edacorn anim. atakepng_5
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 512
+        width: 227
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e170eecb65690f90800000000000000
+      internalID: -6986941833181892122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edacorn anim. atakepng_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 227
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c59049af89745230800000000000000
+      internalID: 3626657257866958279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edacorn anim. atakepng_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 256
+        width: 227
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8476f11ecff8b870800000000000000
+      internalID: 8698983940795823247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edacorn anim. atakepng_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 227
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fd4b0cc28579c00800000000000000
+      internalID: 907290799173328790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edacorn anim. atakepng_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 227
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e965a9efb30fa0ea0800000000000000
+      internalID: -5905643820877719906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edacorn anim. atakepng_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 227
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf202130496369a0800000000000000
+      internalID: -6241028934182359111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edacorn anim. atakepng_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 0
+        width: 227
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4cd8dbd23adf540800000000000000
+      internalID: 5043366574573864190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6976abe427e2a074fa55751cc7544d1e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      edacorn anim. atakepng_0: -59692105117436722
+      edacorn anim. atakepng_1: 6223405530560321015
+      edacorn anim. atakepng_10: -6241028934182359111
+      edacorn anim. atakepng_11: 5043366574573864190
+      edacorn anim. atakepng_2: -9001925241846491209
+      edacorn anim. atakepng_3: -3498452534360384918
+      edacorn anim. atakepng_4: -7216038342314107322
+      edacorn anim. atakepng_5: -6986941833181892122
+      edacorn anim. atakepng_6: 3626657257866958279
+      edacorn anim. atakepng_7: 8698983940795823247
+      edacorn anim. atakepng_8: 907290799173328790
+      edacorn anim. atakepng_9: -5905643820877719906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41104d4be25fe0b4c871cfb029ba6eab, type: 3}
+  m_Name: Cuero
+  m_EditorClassIdentifier: 
+  itemName: Cuero
+  description: "Material extraido de monstruos y bestias de la regi\xF3n\n"
+  rarity: 0
+  icon: {fileID: 3354724414444782987, guid: 62dc3e67473dc5442a7e4576ab7af05f, type: 3}
+  sellValue: 1

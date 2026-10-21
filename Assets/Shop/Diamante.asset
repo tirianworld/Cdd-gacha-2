@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc9cda05d8470474aa0b083ca04031f9, type: 3}
+  m_Name: Diamante
+  m_EditorClassIdentifier: 
+  productId: Diamante_001
+  productName: Diamante
+  description: "Tesoro Sacado de minas enanas, emite un brillo azul  fr\xEDo.\n\n\n"
+  productType: 3
+  icon: {fileID: 4875695137015516991, guid: 7571ab7e1dab50e48a90b57b879ff37c, type: 3}
+  currency: 0
+  costAmount: 1000
+  hasSecondaryCost: 0
+  secondaryCurrency: 0
+  secondaryCostAmount: 0
+  item: {fileID: 11400000, guid: 1c28eeae0ce669e478f73e5a0a638f2a, type: 2}
+  equipment: {fileID: 0}
+  heroID: 0
+  packItems:
+  - {fileID: 11400000, guid: 1c28eeae0ce669e478f73e5a0a638f2a, type: 2}
+  packItemCounts: 0a000000
+  packHeroIDs: 
+  packGold: 1000
+  packMemoryCristals: 0

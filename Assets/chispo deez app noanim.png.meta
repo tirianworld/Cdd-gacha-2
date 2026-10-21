@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 83ead1bfb0f6f244b81dfe42ccdabd4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1124710386922550805
+    second: chispo deez app noanim_0
+  - first:
+      213: -5640820416701155197
+    second: chispo deez app noanim_1
+  - first:
+      213: -7461784132247386642
+    second: chispo deez app noanim_2
+  - first:
+      213: -6816745300436510423
+    second: chispo deez app noanim_3
+  - first:
+      213: -4628240200868647476
+    second: chispo deez app noanim_4
+  - first:
+      213: -3390330283017615732
+    second: chispo deez app noanim_5
+  - first:
+      213: 6088259850647080258
+    second: chispo deez app noanim_6
+  - first:
+      213: -8130930217469420026
+    second: chispo deez app noanim_7
+  - first:
+      213: 260293950383332323
+    second: chispo deez app noanim_8
+  - first:
+      213: -3854143271965559592
+    second: chispo deez app noanim_9
+  - first:
+      213: 1843808429420885374
+    second: chispo deez app noanim_10
+  - first:
+      213: -2760323990234952192
+    second: chispo deez app noanim_11
+  - first:
+      213: 8753995383154273250
+    second: chispo deez app noanim_12
+  - first:
+      213: -5665178317085939156
+    second: chispo deez app noanim_13
+  - first:
+      213: 4581174854725952712
+    second: chispo deez app noanim_14
+  - first:
+      213: 6245376907266992121
+    second: chispo deez app noanim_15
+  - first:
+      213: 59332862622863629
+    second: chispo deez app noanim_16
+  - first:
+      213: -8701843619072841076
+    second: chispo deez app noanim_17
+  - first:
+      213: -1701563922635750906
+    second: chispo deez app noanim_18
+  - first:
+      213: 2479656426724333121
+    second: chispo deez app noanim_19
+  - first:
+      213: -5847296005959084159
+    second: chispo deez app noanim_20
+  - first:
+      213: -7349504993504129666
+    second: chispo deez app noanim_21
+  - first:
+      213: 6139072241741888897
+    second: chispo deez app noanim_22
+  - first:
+      213: 874000397470310170
+    second: chispo deez app noanim_23
+  - first:
+      213: 6084873847639759569
+    second: chispo deez app noanim_24
+  - first:
+      213: -246319739319820812
+    second: chispo deez app noanim_25
+  - first:
+      213: 2883835017216087666
+    second: chispo deez app noanim_26
+  - first:
+      213: 6680082508634861531
+    second: chispo deez app noanim_27
+  - first:
+      213: 2599715929918208588
+    second: chispo deez app noanim_28
+  - first:
+      213: 5782820582658004150
+    second: chispo deez app noanim_29
+  - first:
+      213: -7789827993760805198
+    second: chispo deez app noanim_30
+  - first:
+      213: 4890009114751587401
+    second: chispo deez app noanim_31
+  - first:
+      213: 7047247784094330207
+    second: chispo deez app noanim_32
+  - first:
+      213: -7427620975511041763
+    second: chispo deez app noanim_33
+  - first:
+      213: 7553210426736390832
+    second: chispo deez app noanim_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chispo deez app noanim_0
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3702
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be90a40bcd93460f0800000000000000
+      internalID: -1124710386922550805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3708
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388b1c4a7b7c7b1b0800000000000000
+      internalID: -5640820416701155197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 3697
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee58fbeadda627890800000000000000
+      internalID: -7461784132247386642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_3
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3663
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9291b23144e0661a0800000000000000
+      internalID: -6816745300436510423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 3659
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdaa0c0f0035cfb0800000000000000
+      internalID: -4628240200868647476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3663
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c864c71029023f0d0800000000000000
+      internalID: -3390330283017615732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3659
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d8712c318dd7450800000000000000
+      internalID: 6088259850647080258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_7
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3673
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ede36fb02292f80800000000000000
+      internalID: -8130930217469420026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_8
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 3650
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb18c108ffbc9300800000000000000
+      internalID: 260293950383332323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_9
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3652
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4f7014d15538ac0800000000000000
+      internalID: -3854143271965559592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_10
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3648
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75b0856ff5869910800000000000000
+      internalID: 1843808429420885374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_11
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3680
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e8e09a4fb51b9d0800000000000000
+      internalID: -2760323990234952192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_12
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3648
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebe15a9b607c7970800000000000000
+      internalID: 8753995383154273250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_13
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3662
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ae8d4065e3161b0800000000000000
+      internalID: -5665178317085939156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_14
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3680
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c464ed124a939f30800000000000000
+      internalID: 4581174854725952712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_15
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 3652
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7a31e25390ca650800000000000000
+      internalID: 6245376907266992121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_16
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 3680
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0194289ceac2d000800000000000000
+      internalID: 59332862622863629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_17
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 3662
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ae9223557dc3780800000000000000
+      internalID: -8701843619072841076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_18
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 3652
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6020daca0a4d268e0800000000000000
+      internalID: -1701563922635750906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3652
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1461befd162896220800000000000000
+      internalID: 2479656426724333121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_20
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 3593
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1879f3c434b3adea0800000000000000
+      internalID: -5847296005959084159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_21
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3581
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d0a33d520510a90800000000000000
+      internalID: -7349504993504129666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_22
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 3584
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d7c7b7dad523550800000000000000
+      internalID: 6139072241741888897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_23
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3578
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f94c81bb2112c00800000000000000
+      internalID: 874000397470310170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_24
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 3585
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dad1af7680d17450800000000000000
+      internalID: 6084873847639759569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_25
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3577
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fddcac8085e49cf0800000000000000
+      internalID: -246319739319820812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_26
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 3577
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2765fff3ba0750820800000000000000
+      internalID: 2883835017216087666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_27
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3577
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf2b7526ab64bc50800000000000000
+      internalID: 6680082508634861531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_28
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 3560
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af2b74ddb041420800000000000000
+      internalID: 2599715929918208588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_29
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 3544
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4d5256ea4b04050800000000000000
+      internalID: 5782820582658004150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2420
+        height: 3538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be4e7246b8f4e390800000000000000
+      internalID: -7789827993760805198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_31
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 3517
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944d039a16dccd340800000000000000
+      internalID: 4890009114751587401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_32
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 3523
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5de91f858adcc160800000000000000
+      internalID: 7047247784094330207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_33
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 3532
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d198c64731acbe890800000000000000
+      internalID: -7427620975511041763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chispo deez app noanim_34
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 3531
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2366f4dd462d860800000000000000
+      internalID: 7553210426736390832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chispo deez app noanim_0: -1124710386922550805
+      chispo deez app noanim_1: -5640820416701155197
+      chispo deez app noanim_10: 1843808429420885374
+      chispo deez app noanim_11: -2760323990234952192
+      chispo deez app noanim_12: 8753995383154273250
+      chispo deez app noanim_13: -5665178317085939156
+      chispo deez app noanim_14: 4581174854725952712
+      chispo deez app noanim_15: 6245376907266992121
+      chispo deez app noanim_16: 59332862622863629
+      chispo deez app noanim_17: -8701843619072841076
+      chispo deez app noanim_18: -1701563922635750906
+      chispo deez app noanim_19: 2479656426724333121
+      chispo deez app noanim_2: -7461784132247386642
+      chispo deez app noanim_20: -5847296005959084159
+      chispo deez app noanim_21: -7349504993504129666
+      chispo deez app noanim_22: 6139072241741888897
+      chispo deez app noanim_23: 874000397470310170
+      chispo deez app noanim_24: 6084873847639759569
+      chispo deez app noanim_25: -246319739319820812
+      chispo deez app noanim_26: 2883835017216087666
+      chispo deez app noanim_27: 6680082508634861531
+      chispo deez app noanim_28: 2599715929918208588
+      chispo deez app noanim_29: 5782820582658004150
+      chispo deez app noanim_3: -6816745300436510423
+      chispo deez app noanim_30: -7789827993760805198
+      chispo deez app noanim_31: 4890009114751587401
+      chispo deez app noanim_32: 7047247784094330207
+      chispo deez app noanim_33: -7427620975511041763
+      chispo deez app noanim_34: 7553210426736390832
+      chispo deez app noanim_4: -4628240200868647476
+      chispo deez app noanim_5: -3390330283017615732
+      chispo deez app noanim_6: 6088259850647080258
+      chispo deez app noanim_7: -8130930217469420026
+      chispo deez app noanim_8: 260293950383332323
+      chispo deez app noanim_9: -3854143271965559592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

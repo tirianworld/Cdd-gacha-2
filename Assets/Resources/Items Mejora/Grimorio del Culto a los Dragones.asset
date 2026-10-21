@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41104d4be25fe0b4c871cfb029ba6eab, type: 3}
+  m_Name: Grimorio del Culto a los Dragones
+  m_EditorClassIdentifier: 
+  itemName: "Grimorio Drac\xF3nico"
+  description: "Contiene escritos sagrados del culto a los Dragones, permite convertir
+    a un h\xE9roe a esta religi\xF3n.\n"
+  rarity: 2
+  icon: {fileID: -4010683376586978938, guid: 76103185f41ebf24b8a96c9252b4f052, type: 3}

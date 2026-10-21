@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41104d4be25fe0b4c871cfb029ba6eab, type: 3}
+  m_Name: Mithrill
+  m_EditorClassIdentifier: 
+  itemName: Mithrill
+  description: "Lingote forjado con una materia extra\xF1a de las entra\xF1as de
+    la tierra, incrible resistencia, encantabilidad y protecci\xF3n.\n"
+  rarity: 2
+  icon: {fileID: 7093446326840469575, guid: 450354c867610d54e98052f30e05f71b, type: 3}

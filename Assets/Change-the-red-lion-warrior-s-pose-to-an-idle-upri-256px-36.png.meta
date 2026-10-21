@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 50462b4355d269042bca8c8bc09f0454
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2770061069124778690
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_0
+  - first:
+      213: 1766183489871467159
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_1
+  - first:
+      213: -5181442159212506540
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_2
+  - first:
+      213: -3467052615489237305
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_3
+  - first:
+      213: -8014819702202292497
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_4
+  - first:
+      213: -4590871429915728571
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_5
+  - first:
+      213: 167803979499506253
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_6
+  - first:
+      213: -55567893556041621
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_7
+  - first:
+      213: 6796513271882127746
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_8
+  - first:
+      213: 285173239389719133
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_9
+  - first:
+      213: 8052272871767051350
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_10
+  - first:
+      213: -3994895375522530314
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_11
+  - first:
+      213: -1988205855216649070
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_12
+  - first:
+      213: 4967897242030810039
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_13
+  - first:
+      213: 6243791092106992328
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_14
+  - first:
+      213: -4031001855812390041
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_15
+  - first:
+      213: -1712758550951182624
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_16
+  - first:
+      213: -1712328124540732542
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_17
+  - first:
+      213: -3022647611061916162
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_18
+  - first:
+      213: -1178986550026023720
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_19
+  - first:
+      213: 294196288650217424
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_20
+  - first:
+      213: -4406595032405641737
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_21
+  - first:
+      213: 3315878956192933522
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_22
+  - first:
+      213: 927566598850271087
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_23
+  - first:
+      213: 8766161415898361465
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_24
+  - first:
+      213: -3129035155841255923
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_25
+  - first:
+      213: -8954690048888503469
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_26
+  - first:
+      213: 7807326843595713188
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_27
+  - first:
+      213: 509501263075399775
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_28
+  - first:
+      213: 7310730207251723581
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_29
+  - first:
+      213: -993762962918984915
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_30
+  - first:
+      213: -2552714720279808928
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_31
+  - first:
+      213: -7737472178485194169
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_32
+  - first:
+      213: 4838679393190397718
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_33
+  - first:
+      213: -361732054667308053
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_34
+  - first:
+      213: 8970537528756503226
+    second: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1315
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca325faddb317620800000000000000
+      internalID: 2770061069124778690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1315
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792d2f1c68eb28810800000000000000
+      internalID: 1766183489871467159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1315
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452d7e30fc1d718b0800000000000000
+      internalID: -5181442159212506540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1315
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cecc24f30e82efc0800000000000000
+      internalID: -3467052615489237305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1315
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe62e67f1f3a5c090800000000000000
+      internalID: -8014819702202292497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_5
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1315
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545226a02c2f940c0800000000000000
+      internalID: -4590871429915728571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1052
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a07fd84d8245200800000000000000
+      internalID: 167803979499506253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1052
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68eca39b459a3ff0800000000000000
+      internalID: -55567893556041621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1052
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28913c1bfc0125e50800000000000000
+      internalID: 6796513271882127746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1052
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a8541ec8325f300800000000000000
+      internalID: 285173239389719133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_10
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1052
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c803c938b6fbf60800000000000000
+      internalID: 8052272871767051350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_11
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1052
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbf02362d74f88c0800000000000000
+      internalID: -3994895375522530314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 789
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cb5730f497864e0800000000000000
+      internalID: -1988205855216649070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 789
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3a3e7783481f440800000000000000
+      internalID: 4967897242030810039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 789
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca19c0dae666a650800000000000000
+      internalID: 6243791092106992328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_15
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 789
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763bc575b210f08c0800000000000000
+      internalID: -4031001855812390041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_16
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 789
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeba882c2f0b38e0800000000000000
+      internalID: -1712758550951182624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_17
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 789
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bb6dd94a69c38e0800000000000000
+      internalID: -1712328124540732542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efda87d23066d06d0800000000000000
+      internalID: -3022647611061916162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 526
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc4cb2baf563afe0800000000000000
+      internalID: -1178986550026023720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 526
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d70c3f37f1351400800000000000000
+      internalID: 294196288650217424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_21
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 526
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5f5784a21a8d2c0800000000000000
+      internalID: -4406595032405641737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_22
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 526
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296a216a75e540e20800000000000000
+      internalID: 3315878956192933522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_23
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 526
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67dcfd38e06fdc00800000000000000
+      internalID: 927566598850271087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e6b56dc59a7a970800000000000000
+      internalID: 8766161415898361465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 263
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d067f56aa1f6394d0800000000000000
+      internalID: -3129035155841255923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 263
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353864238dc8ab380800000000000000
+      internalID: -8954690048888503469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_27
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 263
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aae4e53662395c60800000000000000
+      internalID: 7807326843595713188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_28
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 263
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58d83603bc121700800000000000000
+      internalID: 509501263075399775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_29
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 263
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35f4fbb36ee47560800000000000000
+      internalID: 7310730207251723581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d233644b9d17532f0800000000000000
+      internalID: -993762962918984915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_31
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064bfcc9c7fe29cd0800000000000000
+      internalID: -2552714720279808928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7421ced6c0afe9490800000000000000
+      internalID: -7737472178485194169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_33
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617cd1d8541762340800000000000000
+      internalID: 4838679393190397718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_34
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3dea1ec9edafaf0800000000000000
+      internalID: -361732054667308053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_35
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 0
+        width: 195
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab287ddba50cd7c70800000000000000
+      internalID: 8970537528756503226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9d7dd8427bd23f9469d3904aa95b5ef3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_0: 2770061069124778690
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_1: 1766183489871467159
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_10: 8052272871767051350
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_11: -3994895375522530314
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_12: -1988205855216649070
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_13: 4967897242030810039
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_14: 6243791092106992328
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_15: -4031001855812390041
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_16: -1712758550951182624
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_17: -1712328124540732542
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_18: -3022647611061916162
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_19: -1178986550026023720
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_2: -5181442159212506540
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_20: 294196288650217424
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_21: -4406595032405641737
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_22: 3315878956192933522
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_23: 927566598850271087
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_24: 8766161415898361465
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_25: -3129035155841255923
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_26: -8954690048888503469
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_27: 7807326843595713188
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_28: 509501263075399775
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_29: 7310730207251723581
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_3: -3467052615489237305
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_30: -993762962918984915
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_31: -2552714720279808928
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_32: -7737472178485194169
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_33: 4838679393190397718
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_34: -361732054667308053
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_35: 8970537528756503226
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_4: -8014819702202292497
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_5: -4590871429915728571
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_6: 167803979499506253
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_7: -55567893556041621
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_8: 6796513271882127746
+      Change-the-red-lion-warrior-s-pose-to-an-idle-upri-256px-36_9: 285173239389719133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

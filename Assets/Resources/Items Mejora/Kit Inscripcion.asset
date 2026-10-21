@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41104d4be25fe0b4c871cfb029ba6eab, type: 3}
+  m_Name: Kit Inscripcion
+  m_EditorClassIdentifier: 
+  itemName: Kit Inscripcion
+  description: 'Kit Usado para inscribir y grabar magia.
+
+
+
+'
+  rarity: 0
+  icon: {fileID: 8916676985175894099, guid: 0d3dae1776944a34ab8aa09f6aebbd5b, type: 3}

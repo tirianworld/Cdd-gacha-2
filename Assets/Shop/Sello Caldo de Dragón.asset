@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc9cda05d8470474aa0b083ca04031f9, type: 3}
+  m_Name: "Sello Caldo de Drag\xF3n"
+  m_EditorClassIdentifier: 
+  productId: "Sello_Caldo_de_Drag\xF3n_001"
+  productName: "Sello Caldo de Drag\xF3n"
+  description: Sello De La Legendaria Orden de Aventureros.
+  productType: 3
+  icon: {fileID: 2575958351984828458, guid: b3f8b1d566b96874abbbb399e6cfaabd, type: 3}
+  currency: 0
+  costAmount: 1500
+  hasSecondaryCost: 0
+  secondaryCurrency: 0
+  secondaryCostAmount: 0
+  item: {fileID: 11400000, guid: 41fd83a0ea832e64aba8d866378b27f5, type: 2}
+  equipment: {fileID: 0}
+  heroID: 0
+  packItems:
+  - {fileID: 11400000, guid: 41fd83a0ea832e64aba8d866378b27f5, type: 2}
+  packItemCounts: 0a000000
+  packHeroIDs: 
+  packGold: 0
+  packMemoryCristals: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41104d4be25fe0b4c871cfb029ba6eab, type: 3}
+  m_Name: Libro Sagrado
+  m_EditorClassIdentifier: 
+  itemName: Libro Sagrado
+  description: Un grimorio que contiene las escrituras que sus seguidores aplican
+    sin dudar, ha sido robado por bandidos.
+  rarity: 0
+  icon: {fileID: -6089129216121511547, guid: 03d35ec97854fc641a881eaf91da6ee8, type: 3}
+  sellValue: 100

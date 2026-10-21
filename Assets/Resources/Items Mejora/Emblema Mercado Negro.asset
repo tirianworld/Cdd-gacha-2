@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41104d4be25fe0b4c871cfb029ba6eab, type: 3}
+  m_Name: Emblema Mercado Negro
+  m_EditorClassIdentifier: 
+  itemName: Insignia Mercado Negro
+  description: Insignia de Aliado al Mercado Negro
+  rarity: 1
+  icon: {fileID: 6712731279132633184, guid: 2cc11b595e0e681499ea19ca6e1f8a83, type: 3}

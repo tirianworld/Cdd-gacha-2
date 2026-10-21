@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d63e8dc61d5f6d41aac7cc26eff7854, type: 3}
+  m_Name: New Stance Effect
+  m_EditorClassIdentifier: 
+  effectName: Full Counter
+  icon: {fileID: -4325745984010566077, guid: 03173164a9313d347acb30c4f17a66c4, type: 3}
+  stance: 1
+  durationTurns: 1
+  value: 0

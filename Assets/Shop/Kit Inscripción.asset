@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc9cda05d8470474aa0b083ca04031f9, type: 3}
+  m_Name: "Kit Inscripci\xF3n"
+  m_EditorClassIdentifier: 
+  productId: "Inscripci\xF3n_001"
+  productName: Kit Inscripcion
+  description: 'Kit Usado para inscribir y grabar magia.
+
+
+'
+  productType: 3
+  icon: {fileID: 8916676985175894099, guid: 0d3dae1776944a34ab8aa09f6aebbd5b, type: 3}
+  currency: 0
+  costAmount: 150
+  hasSecondaryCost: 0
+  secondaryCurrency: 0
+  secondaryCostAmount: 0
+  item: {fileID: 11400000, guid: 333f84e9454a06649bbb8d49fc66dc03, type: 2}
+  equipment: {fileID: 0}
+  heroID: 0
+  packItems:
+  - {fileID: 11400000, guid: 333f84e9454a06649bbb8d49fc66dc03, type: 2}
+  packItemCounts: 0a000000
+  packHeroIDs: 
+  packGold: 500
+  packMemoryCristals: 0

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc9cda05d8470474aa0b083ca04031f9, type: 3}
+  m_Name: Cartas Tribunal
+  m_EditorClassIdentifier: 
+  productId: Cartas_Tribunal_001
+  productName: Cartas Tribunal
+  description: Cartas que Representan a los Miembros del Tribunal de Kaliria.
+  productType: 3
+  icon: {fileID: -6355760724868224531, guid: 6de0335f89f037c499d19705eeb94901, type: 3}
+  currency: 1
+  costAmount: 5
+  hasSecondaryCost: 0
+  secondaryCurrency: 0
+  secondaryCostAmount: 0
+  item: {fileID: 11400000, guid: 550f8c2ba68b7214c88b4b36073e9af9, type: 2}
+  equipment: {fileID: 0}
+  heroID: 0
+  packItems:
+  - {fileID: 11400000, guid: 550f8c2ba68b7214c88b4b36073e9af9, type: 2}
+  packItemCounts: 0a000000
+  packHeroIDs: 
+  packGold: 0
+  packMemoryCristals: 0

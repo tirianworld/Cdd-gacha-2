@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 98117f14565abea41af3ecd85a8a24dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7595664436996432113
+    second: lingote electrum app_0
+  - first:
+      213: 5330928449893174954
+    second: lingote electrum app_1
+  - first:
+      213: -1259756874801569417
+    second: lingote electrum app_2
+  - first:
+      213: -3545704503465725775
+    second: lingote electrum app_3
+  - first:
+      213: -4735732326874839160
+    second: lingote electrum app_4
+  - first:
+      213: -2962316849291243789
+    second: lingote electrum app_5
+  - first:
+      213: 1812255502056115581
+    second: lingote electrum app_6
+  - first:
+      213: 9210434743665706088
+    second: lingote electrum app_7
+  - first:
+      213: -9067410232569838883
+    second: lingote electrum app_8
+  - first:
+      213: 6655538562905303623
+    second: lingote electrum app_9
+  - first:
+      213: 9084530061623096633
+    second: lingote electrum app_10
+  - first:
+      213: -7430591959114749167
+    second: lingote electrum app_11
+  - first:
+      213: -4717842428633345579
+    second: lingote electrum app_12
+  - first:
+      213: -7684383620154222606
+    second: lingote electrum app_13
+  - first:
+      213: 3630161952711788470
+    second: lingote electrum app_14
+  - first:
+      213: -5513371495609875573
+    second: lingote electrum app_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lingote electrum app_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 359
+        width: 983
+        height: 906
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f06d38df88396960800000000000000
+      internalID: 7595664436996432113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lingote electrum app_0: 7595664436996432113
+      lingote electrum app_1: 5330928449893174954
+      lingote electrum app_10: 9084530061623096633
+      lingote electrum app_11: -7430591959114749167
+      lingote electrum app_12: -4717842428633345579
+      lingote electrum app_13: -7684383620154222606
+      lingote electrum app_14: 3630161952711788470
+      lingote electrum app_15: -5513371495609875573
+      lingote electrum app_2: -1259756874801569417
+      lingote electrum app_3: -3545704503465725775
+      lingote electrum app_4: -4735732326874839160
+      lingote electrum app_5: -2962316849291243789
+      lingote electrum app_6: 1812255502056115581
+      lingote electrum app_7: 9210434743665706088
+      lingote electrum app_8: -9067410232569838883
+      lingote electrum app_9: 6655538562905303623
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

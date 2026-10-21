@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2079288194382928662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2252791051394332603}
+  - component: {fileID: 5186543200542031181}
+  - component: {fileID: 1919492400391174508}
+  m_Layer: 0
+  m_Name: Edacorn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2252791051394332603
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2079288194382928662}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 606.75226, y: 276.79666, z: 1.0856066}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5186543200542031181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2079288194382928662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5861d5d43f2c2349ac4b8a6880f2f07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  portrait: {fileID: -9144438160202483102, guid: a759985b73ac43d448b0017e440e9594, type: 3}
+  heroName: Edacorn
+  heroID: 10
+  isUnlocked: 1
+  race: 30
+  subRace: Fallen
+  heroClasses: 0c000000
+  BondLevel: 0
+  heroReligion: 1
+  alianza: 0
+  Stars: 0
+  skills:
+  - skillName: Ataque Sorpresa
+    description: 
+    icon: {fileID: -3131123829821701142, guid: cf05fa73fd0741c40b18b26925d10b47, type: 3}
+    targetType: 0
+    basePower: 25
+    scalingAttack: 0
+    scalingDefense: 0
+    buffAttackAdd: 10
+    buffDefenseAdd: 0
+    buffDurationTurns: 0
+    effectType: 0
+  - skillName: Angel Caido
+    description: 
+    icon: {fileID: 2512603710006733532, guid: 2f5fea5d8ee79904bb9a379be7df60bf, type: 3}
+    targetType: 3
+    basePower: 100
+    scalingAttack: 0
+    scalingDefense: 100
+    buffAttackAdd: 10
+    buffDefenseAdd: 0
+    buffDurationTurns: 0
+    effectType: 1
+  CC: 0
+  stats:
+    level: 1
+    maxHealth: 100
+    currentHealth: 100
+    attack: 10
+    defense: 5
+    stamina: 100
+    maxStamina: 100
+    xp: 0
+  equipped: []
+  combatSprites: []
+  combatSpriteObject: {fileID: 0}
+--- !u!114 &1919492400391174508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2079288194382928662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f15fd0b53a02d439fe936f4802a100, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  owner: {fileID: 5186543200542031181}
